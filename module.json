@@ -1,5 +1,6 @@
 {
     "name": "Project",
+	"repo": "git@github.com:WebArtWork/waw-project.git",
     "crud": [
 		{
 			"name": "project",
