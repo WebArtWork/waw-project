@@ -1,0 +1,27 @@
+{
+    "name": "Project",
+    "crud": [
+		{
+			"name": "project",
+			"update": {
+				"keys": ["name", "description"]
+			},
+			"delete": [""]
+		},
+		{
+			"name": "projectlead",
+			"update": {
+				"keys": ["name", "description"]
+			},
+			"delete": [""]
+		},
+		{
+			"name": "projectclient",
+			"update": {
+				"keys": ["name", "description"]
+			},
+			"delete": [""]
+		}
+	],
+    "dependencies": {}
+}
